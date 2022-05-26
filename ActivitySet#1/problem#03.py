@@ -1,4 +1,4 @@
-# Variables, Expressions & Statement
+# variables, Expressions & Statement
 
 hrs = input("Enter hours :")
 hrs=float(hrs)
