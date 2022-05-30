@@ -1,4 +1,4 @@
-# Functions
+# functions
 
 
 def computepay(h, r):
