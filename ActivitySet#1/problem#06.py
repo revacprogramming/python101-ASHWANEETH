@@ -1,4 +1,4 @@
-# Loops & Iterators
+# Loop & Iterators
 
 largest = None
 smallest = None
