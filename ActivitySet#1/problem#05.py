@@ -1,4 +1,4 @@
-# FunctIons
+# FuNctIons
 h = float(input("Enter The hours of work:"))
 r = float(input("Enter the rate:"))
 def computepay(h, r):
