@@ -5,4 +5,4 @@ if hrs<= 40:
 elif hrs>40:
     hs = hrs-40
 pay = (40*rate)+hs*rate*1.5
-print(pay)
+
